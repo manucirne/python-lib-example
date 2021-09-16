@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='dev_aberto_manoela',
-    version="0.0.1",
+    version="0.0.2",
     author="Manoela Campos",
     author_email="manucirne@gmail.com",
     description="Dev aberto",
